@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>19940101</pubdate>
+                <title>Voter Precincts</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Clackamas, Multnomah, and Washington County election precincts. Date of last data update: 2025-02-06 This is official RLIS data. Contact Person: Christine Rutan christine.rutan@oregonmetro.gov 503-797-1669 RLIS Metadata Viewer: https://gis.oregonmetro.gov/rlis-metadata/#/details/276 RLIS Terms of Use: https://rlisdiscovery.oregonmetro.gov/pages/terms-of-use</abstract>
+            <purpose>For general mapping and analysis.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20250206</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Ground condition</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-123.486073179</westbc>
+                <eastbc>-121.651005666</eastbc>
+                <northbc>45.4616758499</northbc>
+                <southbc>44.885714569</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Vote</themekey>
+                <themekey>precinct</themekey>
+                <themekey>election</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Portland</placekey>
+                <placekey>Multnomah County</placekey>
+                <placekey>Washington County</placekey>
+                <placekey>Clackamas County</placekey>
+                <placekey>Oregon</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This database and GIS data are made available under the RLIS Open Database End User License Agreement. See https://rlisdiscovery.oregonmetro.gov/pages/open-database-license.</useconst>
+        <browse>
+            <browsen>http://library.oregonmetro.gov/rlisdiscovery/browse_graphic/precinct.png</browsen>
+            <browsed>Voter precinct boundaries displayed as yellow polygons on a gray basemap of the region for orientation.</browsed>
+            <browset>PNG</browset>
+        </browse>
+    </idinfo>
+    <dataqual>
+        <posacc>
+            <horizpa>
+                <horizpar>Registered to tax lots. Street center lines were digitized from aerial orthophotography at +/- 10 feet accuracy. Tax lots were fit to the street centerlines. Beaverton, Oregon City and Tigard planning areas were improved to +/- 5 feet accuracy. Multnomah County was created with coordinate geometry using better control.</horizpar>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <procstep>
+                <procdesc>The precincts file was updated with data from the three counties. If any further updates are available before the November election, they will be posted on the DRC ftp site.</procdesc>
+                <procdate>200007</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Projection information (.prj file), compatible with ArcGIS 8.1, was added to the layer.</procdesc>
+                <procdate>20010715</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Incorporated 2006 precincts from Multnomah County.</procdesc>
+                <procdate>20060811</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updated boundaries based on data provided by our data partners.  Data now maintained as a geodatabase in SDE.</procdesc>
+                <procdate>20081103</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Voter Precincts following the boundary between the states of Oregon and Washington were updated to precise state boundary line coordinates. The boundary between Oregon and Washington is defined by ORS 186.520 which lists latitude and longitude coordinate stations connected by a series of straight lines along length of the boundary.</procdesc>
+                <procdate>20120423</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Major edits to Washington County and minor edits to Clackamas County, reflective of precincts for upcoming November election.</procdesc>
+                <procdate>20161102</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Major edits to Multnomah County; minor edits to Washington and Clackamas Counties. Reflective of precincts for upcoming November election.</procdesc>
+                <procdate>20181018</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Correction to Multnomah County boundaries. Previous release used an older version of precinct data in Multnomah County.</procdesc>
+                <procdate>20181211</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas County precincts.</procdesc>
+                <procdate>20190716</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Washington County precincts.</procdesc>
+                <procdate>20191014</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Washington precincts.</procdesc>
+                <procdate>20200128</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Washington County precincts.</procdesc>
+                <procdate>20200415</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Washington County precincts.</procdesc>
+                <procdate>20201021</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Washington County precincts.</procdesc>
+                <procdate>20210120</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas County precincts.</procdesc>
+                <procdate>20211025</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Washington County precincts.</procdesc>
+                <procdate>20221021</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Corrections to Multnomah County precincts.</procdesc>
+                <procdate>20230217</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Washington and Clackamas precincts.</procdesc>
+                <procdate>20230501</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Washington precincts.</procdesc>
+                <procdate>20230728</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updates to Clackamas and Multnomah precincts.</procdesc>
+                <procdate>20241022</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype/>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Precinct.dbf</enttypl>
+                <enttypd>Description of the voter precinct polygon attributes.</enttypd>
+            </enttyp>
+            <attr>
+                <attrlabl>County</attrlabl>
+                <attrdef>One-letter abbreviation of the county.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>C</edomv>
+                                                						
+                        
+                        <edomvd>Clackamas County</edomvd>
+                                                					
+                    
+                    </edom>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>M</edomv>
+                                                						
+                        
+                        <edomvd>Multnomah County</edomvd>
+                                                					
+                    
+                    </edom>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>W</edomv>
+                                                						
+                        
+                        <edomvd>Washington County</edomvd>
+                                                					
+                    
+                    </edom>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Precinct</attrlabl>
+                <attrdef>Voter precinct number.  The entries in this column are unique by county, but not for the region.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Area</attrlabl>
+                <attrdef>Area in square feet</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>PrecinctID</attrlabl>
+                <attrdef>A unique ID containing the county initial and precinct number. Can be used to join elections results.</attrdef>
+                <attrdomv>
+                                        					
+                    
+                    <udom>NA</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Metro Data Resource Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>unknown</addrtype>
+                    <address>600 NE Grand Ave.</address>
+                    <city>Portland</city>
+                    <state>OR</state>
+                    <postal>97232</postal>
+                </cntaddr>
+                <cntvoice>503 797-1742</cntvoice>
+                <cntfax>503 797-1909</cntfax>
+                <cntemail>drc@oregonmetro.gov</cntemail>
+            </cntinfo>
+        </distrib>
+        <resdesc>Email drc@oregonmetro.gov or call 503-797-1742 for further instructions.</resdesc>
+        <distliab>The information in this file was derived from digital databases on Metro's GIS. Care was taken in the creation of this file. Metro cannot accept any responsibility for errors, omissions, or positional accuracy. There are no warranties, expressed or implied.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Shapefile</formname>
+                    <transize>2</transize>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.oregonmetro.gov/rlisdiscovery</networkr>
+                            </networka>
+                        </computer>
+                        <accinstr>Email drc@oregonmetro.gov or call 503-797-1742 for further instructions.</accinstr>
+                    </onlinopt>
+                    <offoptn>
+                        <offmedia/>
+                        <recfmt>ISO 9660</recfmt>
+                    </offoptn>
+                </digtopt>
+            </digform>
+            <fees>No cost</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20250206</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Metro Data Resource Center</cntorg>
+                    <cntper>Christine Rutan</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>600 NE Grand Ave.</address>
+                    <city>Portland</city>
+                    <state>OR</state>
+                    <postal>97232</postal>
+                </cntaddr>
+                <cntvoice>503-797-1669</cntvoice>
+                <cntfax>503 797-1909</cntfax>
+                <cntemail>christine.rutan@oregonmetro.gov</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

@@ -1,0 +1,17 @@
+https://www.portland.gov/transition/portland-transition-election-code/ranked-choice-voting-election-code
+
+city of portland computer code used to compute stv
+
+https://mggg.org/news
+
+In April 2023, City Council amended Portland City Code Chapter 2.08 to ensure successful implementation of ranked-choice voting in the November 2024 election. The amended Chapter 2.08 reflects careful consideration and collaboration between the City of Portland, Multnomah County, and the Ranked Choice Voting Resource Center (RCVRC). RCVRC is a national expert in ranked-choice voting, leading the implementation of ranked-choice voting in jurisdictions across the county.
+
+https://www.portland.gov/transition/portland-transition-election-code/ranked-choice-voting-election-code
+
+https://www.rcvresources.org/rctab
+
+
+April 2, 2026
+Need to find the source files of the cvr
+
+https://multco.us/info/turnout-and-statistics-november-2024-general-election

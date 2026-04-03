@@ -1,0 +1,142 @@
+In 2024, Portland adopted ranked choice voting for city elections.  This move was part of a voter approved overhaul of the city's governance structure.
+
+Ranked choice voting means (basically) voters pick multiple candidates and rank order their choices.  
+https://youtu.be/gq7N2hmX9FI
+
+https://portlanddsa.org/portland-dsa-2024-voter-guide/
+
+rcv_pic1.jpg
+
+Portland also reorganized its city council into four districts, with three council members each.
+
+[map of city]
+
+The combination (multiple members and ranked choice voting) should help minorities (ideological, racial, etc.) gain more representation on the council.  
+
+District 4 was a vivid example in 2024.  District 4 covers west Portland (including PSU) and it's the wealthiest district in the city.  
+
+Yet, an endorsee of the Democratic Socialists of America, Mitch Green, won election even though only he won only 13.6% of the first place votes.  Did rank choice voting make this possible?
+
+The Data Story
+
+Officials in most ranked choice voting elections give public access to all individual ballots and precincts. This information is needed to ensure transparency in election results.  But the research potential is enormous. In Portland's District 4, a dataset with the contents of 77,332 ballots was published.
+
+The Political Story
+
+Partly because the system was new, about 30 candidates ran in the November 2024 District 4 election, competing for the three spots.  Many were viable but five of these candidates were competitive.  Remember that District 4 is relatively wealthy (at least in Portland terms). 
+
+Three of them (Olivia Clark, Eric Zimmerman, and Eli Arnold) were considered moderate and arguably most aligned with the district's modal policy preferences.  Two of them (Mitch Green and Sarah Silkie) were endorsed by the Democratic Socialists of America and ran further to left.  These five were the final remaining candidates in the RCV elimination process.  
+
+The Research and Results Story
+
+The system was designed to increase diversity, of all kinds.  If a significant minority of voters supported the DSA candidates, the system should improve their chances of election.  Did the new system matter?
+
+The winners were: 
+
+1st place:  Olivia Clark, a moderate and by far the single most popular candidate.
+2nd place:  Mitch Green, the most popular and visible DSA candidate, was elected to the council.  
+3rd place:  Eric Zimmerman, another moderate, who narrowly defeated moderate Eli Arnold.
+
+Report endorsees from the DSA website.
+
+https://portlanddsa.org/portland-dsa-2024-voter-guide/
+
+
+Sankey diagram
+
+How did Mitch Green win election if most voters didn't support his DSA-leaning policies?  Three possibilities:
+
+1.  Voters preferred Green despite his policies; they generally thought he was one of the best candidates.  
+
+If this hypothesis is true, supporters of Clark would have been likely to support Green somewhere on their ballots. Clark supporters should have also chosen Green in numbers approaching their support for the two other moderates, and more than they would have supported Silkie, the other prominent DSA candidate.  
+
+They did not:
+
+a:  Sankey diagram of election rerun with just Clark supporters (1, 1 & 2, 12&3 votes)
+b:  Sankey diagram of election rerun with just Silkie #1 votes
+c.  Sankey diagram of election rerun with just Green #1 votes
+
+
+b:  Stacked bar graphs
+
+Isolating the 67% of voters who ranked Clark, Green would not have been elected.
+
+2.  Were voters who supported Green geographically concentrated?  Green could have been elected if the election had produced 12 districts with one candidate.  
+
+While a Green-only district might have worked in another district, his supporters in District 4 were spread all over the place.
+
+We can see this by rerunning a mini- election within each precinct.  
+
+Bar graphs of his rank distribution, Clark's, and Silkie
+
+
+
+
+
+They elect these members using ranked choice voting.  Voters don't just pick one candidate.  They pick 6 in rank order of prefernce.
+[some kind of simple rcv graphic]
+
+This information gets used to settle on three top choices.  If you pick six people, you're essentially increasing the weight of each person in the ranking.
+[sample graphic]
+
+Suppose there are 30 candidates.  I pick 6 and the contribution is greatest for the first, but if that person is eliminated, the weighting goes to second and so on.
+[single election with no primary]
+
+One of the benefits is diversifying the pool of candidates based on ideology, race, or some other minority representation.
+
+[]
+
+Suppose we had 12 districts electing one person each.  Chances are we'd be sending people who represent the prevailing majority.  But with Portland's system, an ideological minority will get some representation if the system is working as designed. [take this as given]
+
+We had 30 candidates, partly because there were no incumbents, everything was new.
+
+One district demonstrated this tendency.  
+
+[cloropleth map of Portland and the districts.  Portland never had districts until this election]
+
+But five candidates were most successful.  Three moderate candidates who reflected the prevailing preferences of the 4th district, which is wealthier and more moderate, includes downtown, and has voters who are very anxious about the most important issues:  housing and homelessness and the economic downturn.
+
+But some voters have different priorities or a more progressive, left-wing approach to those topics.  They were more likely to support candidates endoresed by the Democratic Socialists of America.
+
+
+Several candidates ran with the endoresement of the DSA throughout the city, including a couple of candidates in the fourth district that is known to not be sympathetic to them.  
+[Graphic 1:  The fourth district wasn't sympathetic to the DSA candidate]. [The number of ballots that ranked someone from the DSA.]
+
+Graphic 2:  
+
+Yet the new system elected a DSA member from the fourth.  Is that surprising, and did the new system produce that result?
+
+Mitch Green came in second place.  That may seem straightforward, but suppose we said that most people opposed his policies.
+
+The data:  every ballot, and we can rerun the complex RCV for different precincts and for different subsets of voters.
+
+For example:  rerun the election just with the voters who ranked Olivia.  Who would have been the three representatives?
+
+DID THE NEW SYSTEM CHANGE THE RESULT:
+
+We can rerun the election in different scenarios and see different results.
+
+Three possibilities: 
+1.  Despite his policies Everybody likes the DSA guy, Mitch Green, and would have voted for the moderates along with Mitch Green in any case.   
+
+Most ballots who supported the top candidates also supported Mitch.  But that's not the case...most people who chose OC #1 didn't rank Mitch at all, but ranked the top two moderate candidates.  Moderate voters did not like Mitch.
+
+2.  Mitch's support was geographically concentrated, and a Mitch Green "district" would have elected him anyway, regardless of the new system.
+
+Distribution of the precincts....flat.
+Olivia #1 and Mitch #2 everywhere.
+
+3.  The system worked as intended....without explaining the mechanics, the RCV system made Mitch Green's election possible.  We'd see that if a) moderate voters didn't choose Mitch also and b) his support was uniformly spread around the district.
+
+DSA support wasn't concentrated but it was visible.
+Green would have come in second place in a simple plurality vote
+Green and Silkie did okay
+Green almost got the same percentage as Arnold and Zimmerman
+
+If you're ideology minority, this system means you'll be represented much more likely without a swiss cheese districting scheme.   
+
+[Network diagram]
+
+[Stacked bar comparison of DSA vs. top 4 moderates]
+An election based on "top 3 first place choices" still would have elected a DSA person, maybe not in 2nd place.
+But everyone would have been elected with a minority?

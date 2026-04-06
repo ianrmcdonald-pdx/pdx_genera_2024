@@ -24,13 +24,13 @@ The published election results can be reproduced (closely, but not perfectly) us
 
 Access to individual ballot records gives us unique research opportunities. A few of the research questions you might consider:
 
-1.  Does ranked choice voting change the result? Some critics complain that ranked choice voting increases voters' cognitive load without changing outcomes, but we know, at minimum, that the elimination of primaries has an enormous effect on municipal elections.
+1.  **Does ranked choice voting change the result?** Some critics complain that ranked choice voting increases voters' cognitive load without changing outcomes, but we know, at minimum, that the elimination of primaries has an enormous effect on municipal elections.
 
     Specifically, we can ask whether Portland four district, multi-member council elections created a result that couldn't be reproduced using 12 smaller districts. Is the support for specific winning candidates concentrated geographically within the four districts?
 
-2.  Did endorsements (positive and negative) by the Democratic Socialists of America change the outcomes? DSA members comprise a large minority faction of the newly elected city council, though it's not apparent that most voters would have endorsed them. Did the ranked choice voting method facilitate their election? And did the campaign to withhold a ranking of conservative mayoral candidate Rene Gonzalez reduce his chances of winning?\
+2.  **Did endorsements (positive and negative) by the Democratic Socialists of America change the outcomes?** DSA members comprise a large minority faction of the newly elected city council, though it's not apparent that most voters would have endorsed them. Did the ranked choice voting method facilitate their election? And did the campaign to withhold a ranking of conservative mayoral candidate Rene Gonzalez reduce his chances of winning?
 
-3.  Was support for specific mayoral candidates linked to support of specific council candidates?
+3.  **Was support for specific mayoral candidates linked to support of specific council candidates?**
 
 This report from the [Data and Democracy Lab at the University of Chicago](https://mggg.org/portland-stv-24) investigates other questions and could inspire your own investigation. In the coming days I'll expand on these ideas and suggest some techniques, including links to US Census data and GIS packages available in R.
 

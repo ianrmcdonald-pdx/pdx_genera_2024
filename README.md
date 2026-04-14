@@ -40,10 +40,10 @@ More broadly, CVR data is unusually rich because of the individual level ballot 
 
 1.  CVR data can help address questions about political strategy in a ranked choice voting system. For example, does a campaign to reject ranking a particular candidate diminish that candidate's performance?\
     \
-    In Portland, a prominent mayoral candidate, Rene Gonzales, was the target of a "don't rank" rampaign, along with a handful of city counci candidates. Did those candidates appear on fewer ballots, and can we see endorsed candidates combine successfully into electoral blocs? \
+    In Portland, a prominent mayoral candidate, Rene Gonzales, was the target of a "don't rank" rampaign, along with a handful of city counci candidates. Did those candidates appear on fewer ballots, and can we see endorsed candidates combine successfully into electoral blocs?\
 2.  Were candidates supported by electoral minorities more successful than they would have been had their support come from smaller geographic areas within council districts?\
-3.  We can see the results of individual ballots for multiple city races. Specifically, we can connect ballot records of mayoral candidates to council races. Portland races are non-partisan, but did support for specific mayoral candidates match support for specific council candidates? \
-4.  The greatest data science opportunity is the ability to connect ballot content, and voring precincts, to GIS tools. We can connect precinct information to census block information using spatial joins that can analyze precinct characteristics to electoral outcomes. \
+3.  We can see the results of individual ballots for multiple city races. Specifically, we can connect ballot records of mayoral candidates to council races. Portland races are non-partisan, but did support for specific mayoral candidates match support for specific council candidates?\
+4.  The greatest data science opportunity is the ability to connect ballot content, and voring precincts, to GIS tools. We can connect precinct information to census block information using spatial joins that can analyze precinct characteristics to electoral outcomes.\
     \
     I wonder if the candidates endorsed by the DSA succeeded in areas with economic characteristics such as home ownership and income.
 

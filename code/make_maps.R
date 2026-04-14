@@ -3,7 +3,8 @@ library(tidyverse)
 library(vote)
 
 
-#map graphics
+#map graphics:  a few examples
+
 pdx_gen <- st_read(
   "Multnomah_Elections_Precinct_Split_2024/Multnomah_Elections_Precinct_Split_2024.shp")
 
@@ -14,7 +15,7 @@ pcc_dist <- st_transform(pcc_dist, crs=4269)
 st_crs(pcc_dist)
 
 home_values <- st_transform(home_values, crs=4269)
-voter_precincts <- st_read("Voter_Precincts/Voter_Precincts.shp")
+voter_precincts <- st_read("data/shapefiles/Voter_Precincts/Voter_Precincts.shp")
 
 delete <- st_join(home_values, pdx_gen_d4)
 delete <- st_intersection(pdx_gen_d4, home_values)

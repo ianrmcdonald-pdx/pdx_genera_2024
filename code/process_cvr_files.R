@@ -68,7 +68,7 @@ compute_stv <- function(office_inp, seats_num = 1, quota_const = TRUE) {
     pivot_longer(cols = !c(recordID, precinct), 
                names_to = "choice_num", values_to = "choice") |> 
     mutate(choice_num = as.numeric(str_sub(choice_num, -1, -1))) |> 
-    filter(choice != "undervote") |> 
+    filter(choice != "undervote" & choice != "Uncertified Write In") |> 
     filter(!str_detect(choice, "\n")) |> 
     
     group_by(recordID, precinct, choice) |> 

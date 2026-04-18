@@ -102,31 +102,34 @@ Sys.time()
   d1_stv <- compute_stv(council_d1_2024, seats_num = 3)
 Sys.time()
 
-summary_d1_stv <- summary(d1_stv)
+summary_d1_stv <- summary(council_d1_stv)
 
 Sys.time()
   d2_stv <- compute_stv(council_d2_2024, seats_num = 3)
 Sys.time()
 
-summary_d2_stv <- summary(d1_stv)
+summary_d2_stv <- summary(council_d2_stv)
 
 Sys.time()
   d3_stv <- compute_stv(council_d3_2024, seats_num = 3)
 Sys.time()
   
-summary_d3_stv <- summary(d1_stv)
+summary_d3_stv <- summary(council_d3_stv)
 
 Sys.time()
   d4_stv <- compute_stv(council_d4_2024, seats_num = 3)
 Sys.time()
   
-summary_d4_stv <- summary(d4_stv)
+summary_d4_stv <- summary(council_d4_stv)
 
 
+council_d4_stv_precinctID_37 <- council_d4_2024 |> 
+  filter(precinct == 37) |> 
+  compute_stv(seats_num = 3, quota_const = FALSE)
 
-
+precinct_37_summary <- summary(council_d4_stv_precinctID_37)
+complete.ranking(council_d4_stv_precinctID_37)
         
-
 
 
          

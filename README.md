@@ -55,4 +55,4 @@ A dashboard that generates results of candidates associated with DSA endorsement
 
 The effect of using ballot information in alternative forms of voting, such as simple plurality voting, approval voting, and Condorcet voting (all of which we can explain in our early meetings).
 
-irm 4/13/2026
+irm 4/13/2026 and 5/11/2026
